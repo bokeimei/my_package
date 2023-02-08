@@ -5,7 +5,7 @@ This library was created as an example of how to publish my own Python package.
 'python setup.py sdist'
 
 ## Installing this pacakge from GitHup
-'pip install git+https://github.com/bokeimei/mypackage.git'
+'pip install git+https://github.com/bokeimei/my_package.git'
 
 ## Updating this package on GitHup
-'pip install --upgrade git+https://github.com/bokeimei/mypackage.git'
+'pip install --upgrade git+https://github.com/bokeimei/my_package.git'
